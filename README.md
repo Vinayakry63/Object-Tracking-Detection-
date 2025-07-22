@@ -12,8 +12,6 @@ pip install opencv-python
 
 <div align="center" markdown="1">
 
-Make Sure to follow me:
-
 
 </div>
 
