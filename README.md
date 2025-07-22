@@ -136,7 +136,7 @@ If a new object is identified, the list of points must also be updated. So here 
             track_id += 1
 ...
 ```
-
+...
 ├── dnn_model/
 │   ├── yolov4.cfg
 │   └── classes.txt
@@ -147,4 +147,5 @@ If a new object is identified, the list of points must also be updated. So here 
 │   └── object_tracking.py
 ├── results/
 └── README.md
+...
 </div>
