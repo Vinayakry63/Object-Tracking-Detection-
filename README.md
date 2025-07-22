@@ -43,7 +43,7 @@ while True:
 ## Object Tracking
 By saving the position of the center point of each object, you can trace the previous position of the objects and predict what the immediate next will be. Here is a small example in the image
 
-Before going on with the explanation, I must point out that object tracking is more complicated than that. Consider this tutorial as a simple exercise to understand the basics behind this algorithm. 
+
 
 ### Find the point and assign the ID
 
