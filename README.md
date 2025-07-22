@@ -135,19 +135,6 @@ If a new object is identified, the list of points must also be updated. So here 
             tracking_objects[track_id] = pt
             track_id += 1
 ...
-```
-<div align="justify" markdown="1">
-...
-              ├── dnn_model/
-              │   ├── yolov4.cfg
-              │   └── classes.txt
-              ├── input/
-              │   └── los_angeles.mp4
-              ├── src/
-              │   ├── object_detection.py
-              │   └── object_tracking.py
-              ├── results/
-              └── README.md
-...
-  </div>
+
+
 </div>
