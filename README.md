@@ -137,15 +137,15 @@ If a new object is identified, the list of points must also be updated. So here 
 ...
 ```
 ...
-├── dnn_model/
-│   ├── yolov4.cfg
-│   └── classes.txt
-├── input/
-│   └── los_angeles.mp4
-├── src/
-│   ├── object_detection.py
-│   └── object_tracking.py
-├── results/
-└── README.md
+              ├── dnn_model/
+              │   ├── yolov4.cfg
+              │   └── classes.txt
+              ├── input/
+              │   └── los_angeles.mp4
+              ├── src/
+              │   ├── object_detection.py
+              │   └── object_tracking.py
+              ├── results/
+              └── README.md
 ...
 </div>
