@@ -136,6 +136,7 @@ If a new object is identified, the list of points must also be updated. So here 
             track_id += 1
 ...
 ```
+<div align="justify" markdown="1">
 ...
               ├── dnn_model/
               │   ├── yolov4.cfg
@@ -148,4 +149,5 @@ If a new object is identified, the list of points must also be updated. So here 
               ├── results/
               └── README.md
 ...
+  </div>
 </div>
